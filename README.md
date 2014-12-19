@@ -2,10 +2,11 @@ UTAstroHackDay2015
 ==================
 
 We are hosting an informal hack day, probably sometime January 13-16, 2015.
+
 Visit the [wiki](https://github.com/OttoStruve/UTAstroHackDay2015/wiki) at the right for more information.
 
 
-### Hack ideas
+## Hack ideas
 1. Visit the wiki on the right tab in this window to add yourself to the [participant     list](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Participants).¬
 2. Check out the existing [hack ideas](https://github.com/OttoStruve/UTAstroHackDay20    15/wiki/Hack-Ideas) or add one of your own.
 
