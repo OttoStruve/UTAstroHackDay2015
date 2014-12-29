@@ -7,8 +7,8 @@ Visit the [wiki](https://github.com/OttoStruve/UTAstroHackDay2015/wiki) at the r
 
 
 ## Hack ideas
-1. Visit the wiki on the right tab in this window to add yourself to the [participant     list](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Participants).¬
-2. Check out the existing [hack ideas](https://github.com/OttoStruve/UTAstroHackDay20    15/wiki/Hack-Ideas) or add one of your own.
+1. Visit the wiki on the right tab in this window to add yourself to the [participant     list](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Participants).
+2. Check out the existing [hack ideas](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Hack-Ideas) or add one of your own.
 
 ### Participate with GitHub
 
