@@ -1,7 +1,7 @@
 UTAstroHackDay2015
 ==================
 
-We are hosting an informal hack day, probably sometime January 13-16, 2015.
+We are hosting an informal hack day, all day on Friday, January 16, 2015 in the Astro classroom.
 
 Visit the [wiki](https://github.com/OttoStruve/UTAstroHackDay2015/wiki) at the right for more information.
 
